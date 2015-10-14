@@ -1,0 +1,5 @@
+#lang racket
+
+(set! x 2)
+
+(begin (+x 1))
